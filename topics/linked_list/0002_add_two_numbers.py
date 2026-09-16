@@ -4,7 +4,7 @@ Link       : https://leetcode.com/problems/add-two-numbers/
 Difficulty : Medium
 Tags       : Linked List, Math, Recursion
 Runtime    : 0 ms (beats 100.0%)
-Memory     : 19.23 MB (beats 79.04%)
+Memory     : 19.19 MB (beats 96.04%)
 """
 
 class Solution:
