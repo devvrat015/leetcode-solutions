@@ -3,8 +3,8 @@ Problem    : 0003. Longest Substring Without Repeating Characters
 Link       : https://leetcode.com/problems/longest-substring-without-repeating-characters/
 Difficulty : Medium
 Tags       : Hash Table, String, Sliding Window
-Runtime    : 207 ms (beats 51.56%)
-Memory     : 19.73 MB (beats 76.45%)
+Runtime    : 215 ms (beats 38.12%)
+Memory     : 19.88 MB (beats 60.24%)
 """
 
 class Solution:
