@@ -8,6 +8,9 @@ Memory     : 19.34 MB (beats 42.62%)
 """
 
 
+
+class Solution:
+    def addTwoNumbers(self, l1: ListNode | None, l2: ListNode | None) -> ListNode | None:
         dummy = ListNode(0)
         current = dummy
         carry = 0
@@ -28,6 +31,3 @@ Memory     : 19.34 MB (beats 42.62%)
                 l1 = l1.next
 
             if l2:
-                l2 = l2.next
-
-        return dummy.next
