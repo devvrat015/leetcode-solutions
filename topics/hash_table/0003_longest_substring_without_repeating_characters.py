@@ -3,14 +3,12 @@ Problem    : 0003. Longest Substring Without Repeating Characters
 Link       : https://leetcode.com/problems/longest-substring-without-repeating-characters/
 Difficulty : Medium
 Tags       : Hash Table, String, Sliding Window
-Runtime    : 187 ms (beats 66.78%)
-Memory     : 19.85 MB (beats 60.24%)
+Runtime    : 207 ms (beats 51.56%)
+Memory     : 19.73 MB (beats 76.45%)
 """
 
-
 class Solution:
-    def lengthOfLongestSubstring(self, s:
-    str) -> int:
+    def lengthOfLongestSubstring(self, s: str) -> int:
         left = 0
         max_length = 0
         seen = set()
@@ -21,7 +19,6 @@ class Solution:
                 left += 1
 
             seen.add(s[right])
-            max_length = max(max_length,
-            right - left + 1)
+            max_length = max(max_length, right - left + 1)
 
         return max_length
