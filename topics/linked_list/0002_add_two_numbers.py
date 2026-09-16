@@ -3,11 +3,11 @@ Problem    : 0002. Add Two Numbers
 Link       : https://leetcode.com/problems/add-two-numbers/
 Difficulty : Medium
 Tags       : Linked List, Math, Recursion
-Runtime    : 55 ms (beats 6.58%)
-Memory     : 19.47 MB (beats 11.95%)
+Runtime    : 0 ms (beats 100.0%)
+Memory     : 19.23 MB (beats 79.04%)
 """
 
-
+class Solution:
     def addTwoNumbers(self, l1: ListNode | None, l2: ListNode | None) -> ListNode | None:
         dummy = ListNode(0)
         current = dummy
