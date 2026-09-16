@@ -3,10 +3,14 @@ Problem    : 0002. Add Two Numbers
 Link       : https://leetcode.com/problems/add-two-numbers/
 Difficulty : Medium
 Tags       : Linked List, Math, Recursion
-Runtime    : 0 ms (beats 7.66%)
-Memory     : 19.26 MB (beats 79.04%)
+Runtime    : 3 ms (beats 65.21%)
+Memory     : 19.34 MB (beats 42.62%)
 """
 
+
+        dummy = ListNode(0)
+        current = dummy
+        carry = 0
 
         while l1 or l2 or carry:
             val1 = l1.val if l1 else 0
