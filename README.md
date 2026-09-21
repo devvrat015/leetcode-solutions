@@ -12,5 +12,6 @@
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Two Pointers, String, Dynamic Programming, Manacher | 222ms (88.73%) | 19.43MB (18.69%) | [solution](topics/two_pointers/0005_longest_palindromic_substring.py) |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | String | 10ms (56.08%) | 19.32MB (47.15%) | [solution](topics/string/0006_zigzag_conversion.py) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Array, Two Pointers | 0ms (12.57%) | 20.57MB (43.63%) | [solution](topics/array/0026_remove_duplicates_from_sorted_array.py) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Array, Two Pointers | 0ms (22.73%) | 20.4MB (90.2%) | [solution](topics/array/0283_move_zeroes.py) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | Array | 0ms (30.8%) | 21.83MB (44.22%) | [solution](topics/array/0485_max_consecutive_ones.py) |
 <!-- TABLE_END -->
