@@ -11,5 +11,6 @@
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Array, Binary Search, Divide and Conquer | 6ms (15.37%) | 19.58MB (43.62%) | [solution](topics/array/0004_median_of_two_sorted_arrays.py) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Two Pointers, String, Dynamic Programming, Manacher | 222ms (88.73%) | 19.43MB (18.69%) | [solution](topics/two_pointers/0005_longest_palindromic_substring.py) |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | String | 10ms (56.08%) | 19.32MB (47.15%) | [solution](topics/string/0006_zigzag_conversion.py) |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Array, Two Pointers | 0ms (100.0%) | 22.5MB (80.32%) | [solution](topics/array/0026_remove_duplicates_from_sorted_array.py) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | Array | 0ms (30.8%) | 21.83MB (44.22%) | [solution](topics/array/0485_max_consecutive_ones.py) |
 <!-- TABLE_END -->
