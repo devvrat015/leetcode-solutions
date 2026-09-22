@@ -3,8 +3,8 @@ Problem    : 0128. Longest Consecutive Sequence
 Link       : https://leetcode.com/problems/longest-consecutive-sequence/
 Difficulty : Medium
 Tags       : Array, Hash Table, Union-Find
-Runtime    : 0 ms (beats 53.54%)
-Memory     : 36.6 MB (beats 67.56%)
+Runtime    : 0 ms (beats 62.79%)
+Memory     : 36.72 MB (beats 20.51%)
 """
 
 class Solution:
@@ -23,16 +23,3 @@ class Solution:
                     count += 1 
                 longest = max(longest, count)
         return longest
-
-        # Sorting + linear scan → O(n log n)
-        # nums.sort()
-        # prev = nums[0]
-        # counter = 1
-
-        # for i in range(1, len(nums)):
-
-        #     if nums[i] == prev + 1:
-        #         prev = nums[i]
-        #         counter +=1
-
-        # return counter
