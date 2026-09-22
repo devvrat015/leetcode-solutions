@@ -13,7 +13,7 @@
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | String | 10ms (56.08%) | 19.32MB (47.15%) | [solution](topics/string/0006_zigzag_conversion.py) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Array, Two Pointers, Sorting | 0ms (75.88%) | 22.41MB (18.91%) | [solution](topics/array/0015_3sum.py) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Array, Two Pointers | 0ms (12.57%) | 20.57MB (43.63%) | [solution](topics/array/0026_remove_duplicates_from_sorted_array.py) |
-| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | 0ms (53.54%) | 36.6MB (67.56%) | [solution](topics/array/0128_longest_consecutive_sequence.py) |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | 0ms (62.79%) | 36.72MB (20.51%) | [solution](topics/array/0128_longest_consecutive_sequence.py) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Array, Two Pointers | 0ms (17.48%) | 20.54MB (25.81%) | [solution](topics/array/0283_move_zeroes.py) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | Array | 0ms (30.8%) | 21.83MB (44.22%) | [solution](topics/array/0485_max_consecutive_ones.py) |
 <!-- TABLE_END -->
