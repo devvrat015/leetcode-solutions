@@ -3,8 +3,8 @@ Problem    : 0001. Two Sum
 Link       : https://leetcode.com/problems/two-sum/
 Difficulty : Easy
 Tags       : Array, Hash Table
-Runtime    : 0 ms (beats 61.06%)
-Memory     : 20.36 MB (beats 59.62%)
+Runtime    : 0 ms (beats 100.0%)
+Memory     : 20.45 MB (beats 42.56%)
 """
 
 class Solution:
